@@ -1,0 +1,75 @@
+/* welcome image on header section */
+body{
+    font-family: Merriweather;
+}
+.container-head{
+    background-image:url('../images/Banner\ Image.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 1320px;
+height: 600px;
+border-radius: 16px;
+margin: 50px 300px ;
+background-color: black;
+margin-bottom: 120px;
+}
+.container-title{
+    color: #FFF;
+text-align: center;
+font-size: 32px;
+font-weight: 400;
+padding-top: 177px;
+
+}
+.container-slogan{
+  
+   
+    color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+padding: 223px 344px 177px 344 ;
+
+}
+
+/* offer section style */
+
+.offer-section{
+    width: 1600px;
+height: 7335px;
+align-items: center;
+
+
+}
+.offer-title{
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-weight: 700;
+
+}
+
+.offer-description{
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.offer-category{
+    color: #070211;
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+
+font-weight: 700;
+
+}
+
+.offer-image{
+  margin-left: 400px;
+    
+}
