@@ -38,6 +38,7 @@ padding: 223px 344px 177px 344 ;
     width: 1600px;
 height: 7335px;
 align-items: center;
+display: inline;
 
 
 }
@@ -72,4 +73,40 @@ font-weight: 700;
 .offer-image{
   margin-left: 400px;
     
+}
+
+/* Victory Section */
+
+.victory-section{
+    background-image: url('../images/Vectorrr.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 1320px;
+    height: 600px;
+    border-radius: 16px;
+    margin: 50px 300px ;
+    background-color: black;
+    margin-bottom: 120px;
+    width: 1320px;
+height: 600px;
+flex-shrink: 0;
+display: block;
+}
+div-l-section{
+    width: 70%;
+}
+.victory-head{
+    color: #FFF;
+   /* padding: 128px 0px 0px 126px;  */
+   padding-top: 128px;
+
+
+}
+.victory-description{
+color: #FFF;
+
+}
+.victory-r-section{
+    width: 30%;
+    margin-left: 862px;
 }
