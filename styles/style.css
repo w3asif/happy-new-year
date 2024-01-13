@@ -270,7 +270,22 @@ background: #FFF;
 
 }
 
+.footer-section{
+   background-color: black; 
+    color: #FFF;
+}
 
+.lft-u{
+    text-align: left;
+}
+
+.social-center{
+    text-align: center;
+}
+
+.rft-u{
+    text-align: right;
+}
 
 
 
