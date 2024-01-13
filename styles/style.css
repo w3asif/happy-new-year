@@ -93,9 +93,9 @@ font-weight: 700;
     background-color: black;
     margin-bottom: 120px;
     width: 1320px;
-height: 600px;
-flex-shrink: 0;
-display: block;
+    height: 600px;
+    flex-shrink: 0;
+    display: block;
 }
 div-l-section{
     width: 70%;
@@ -108,7 +108,7 @@ div-l-section{
 
 }
 .victory-description{
-color: #FFF;
+    color: #FFF;
 
 }
 .victory-r-section{
@@ -120,11 +120,11 @@ color: #FFF;
 .calender-section{
     margin-top: 200px;
     width: 1320px;
-height: 482px;
-flex-shrink: 0;
-display: inline;
-text-align: center;
-background-color: bisque;
+    height: 482px;
+    flex-shrink: 0;
+    display: inline;
+    text-align: center;
+    background-color: bisque;
 }
 
 
@@ -132,12 +132,12 @@ background-color: bisque;
     color: #F00;
     
 
-font-family: Inter;
-font-size: 32px;
-font-style: normal;
-font-weight: 600;
-line-height: 56px; /* 175% */
-text-transform: capitalize;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 56px; /* 175% */
+    text-transform: capitalize;
 }
 
 .c-join-now{
@@ -217,8 +217,8 @@ height: 7335px;
     margin: 20px auto;
 
 }
-.portfolio-heading h2{
-    color: #c5b3eb;
+.portfolio-heading h1{
+    color: #05010c;
     font-size: 48px;
     font-weight: 900;
     text-transform: capitalize;
@@ -241,3 +241,37 @@ height: 7335px;
 
     text-align: center;
 }
+
+/* email-subscriber  */
+
+.email-subscription{
+    background-color:bisque;
+    text-align: center;
+
+}
+.email-subscription h1{
+
+    color: #070211;
+text-align: center;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+
+
+}
+
+.email-subscriber{
+    border-radius: 50px;
+background: #FFF;
+   
+
+}
+
+
+
+
+
+
